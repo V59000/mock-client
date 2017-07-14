@@ -1,12 +1,49 @@
-h1{
+#heading{
     text-align:center;
+    font-family:'Playfair Display';
 }
 
 body{
     background-color:#F5DEB3;
+}
+/*img{
     
+}*/
+.jumbotron{
+    background-image: url(https://images.unsplash.com/photo-1496226338867-3304059a5aa6?dpr=1&auto=format&fit=crop&w=1080&h=1482&q=80&cs=tinysrgb&crop=);
+    background-size: cover;
+}
+/*.col-md-2{
+    
+}*/
+.container{
+    display: inline-block;
 }
 
-img{
-    
+.col-xs-1{
+    display:inline-block;
+}
+col-md-8{
+    display:inline-block;
+}
+#myCarousel{
+    width: 100%;
+}
+.pics{
+   max-width:1280px;
+    margin: auto;
+    height: 100%;
+}
+
+.carousel-inner{
+    height: 50%;
+}
+.btn btn-default btn{
+    display:inline-block;
+}
+#credits{
+    background-color: #AAAAAA;
+}
+btn btn-default{
+    background-color:blue;
 }

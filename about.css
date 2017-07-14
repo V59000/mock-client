@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1454357110064-3d600740d47a?dpr=1&auto=format&fit=crop&w=1080&h=720&q=80&cs=tinysrgb&crop=);
+    background-size: cover;    
+}
+.row{
+    display: inline;
+}
+.text-info{
+    font-family: 'Fresca', sans-serif
+}
+#ttop{
+    background-image: url(https://images.unsplash.com/photo-1496226338867-3304059a5aa6?dpr=1&auto=format&fit=crop&w=1080&h=1482&q=80&cs=tinysrgb&crop=);
+    background-size: cover;
+    height: 250px;
+}
+#heading{
+    text-align:center;
+    font-family:'Playfair Display';
+}
