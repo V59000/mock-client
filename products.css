@@ -13,3 +13,20 @@ body{
 .thumbnail{
     width: 20%;
 }
+img{
+    width:20px;
+    height:90px;
+}
+
+#bob{
+   font-family: 'Playfair Display SC', serif;
+ 
+}
+
+#rob{
+    font-family: 'Playfair Display SC', serif;
+}
+
+col-md-3{
+    width:650px;
+}

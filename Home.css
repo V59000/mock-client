@@ -47,3 +47,7 @@ col-md-8{
 btn btn-default{
     background-color:blue;
 }
+
+input[type=email]{
+     width:25%;    
+}
