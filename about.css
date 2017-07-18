@@ -17,3 +17,10 @@ body{
     text-align:center;
     font-family:'Playfair Display';
 }
+
+col-md-6{
+    width:420%;
+    height:10px;
+    
+}
+

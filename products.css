@@ -28,5 +28,10 @@ img{
 }
 
 col-md-3{
-    width:650px;
+    width:450%;
+    height: inherit;
+}
+
+#gob{
+    width:500%;
 }
