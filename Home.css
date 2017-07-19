@@ -39,7 +39,7 @@ col-md-8{
 .carousel-inner{
     height: 50%;
 }
-.btn btn-default btn{
+.btn btn-default{
     display:inline-block;
 }
 #credits{
@@ -51,4 +51,10 @@ btn btn-default{
 
 input[type=email]{
      width:25%;    
+}
+#btm{
+    color: black;
+}
+.carousel-caption{
+ font-size: 20px;
 }
