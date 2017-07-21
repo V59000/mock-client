@@ -7,7 +7,7 @@ body{
 }
 .text-info{
     font-family: 'Fresca', sans-serif;
-    padding: 1px;
+    color: #000000;
     
 }
 #ttop{
@@ -22,8 +22,13 @@ body{
 #txt{
     border-radius: 50px;
     background-color: white;
-    opacity: 0.5;
+    opacity: 0.6;
 }
-br{
-    color: black;
+
+.change{
+    background-color: white;
+    border-radius: 5px;
+}
+.col-md-6{
+    display: inline;
 }

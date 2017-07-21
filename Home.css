@@ -1,4 +1,5 @@
 @import "bootstrap-social.less";
+
 #heading{
     text-align:center;
     font-family:'Playfair Display';
@@ -13,6 +14,7 @@ body{
 .jumbotron{
     background-image: url(https://images.unsplash.com/photo-1496226338867-3304059a5aa6?dpr=1&auto=format&fit=crop&w=1080&h=1482&q=80&cs=tinysrgb&crop=);
     background-size: cover;
+    height: 250px;
 }
 /*.col-md-2{
     
@@ -21,12 +23,6 @@ body{
     display: inline-block;
 }
 
-.col-xs-1{
-    display:inline-block;
-}
-col-md-8{
-    display:inline-block;
-}
 #myCarousel{
     width: 100%;
 }
@@ -39,14 +35,9 @@ col-md-8{
 .carousel-inner{
     height: 50%;
 }
-.btn btn-default{
-    display:inline-block;
-}
+
 #credits{
     background-color: #AAAAAA;
-}
-btn btn-default{
-    background-color:blue;
 }
 
 input[type=email]{
@@ -56,5 +47,9 @@ input[type=email]{
     color: black;
 }
 .carousel-caption{
- font-size: 20px;
+ font-size: 25px;
+}
+.change{
+    background-color: white;
+    border-radius: 5px;
 }
